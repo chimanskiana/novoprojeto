@@ -1,0 +1,16 @@
+.cabecalho{
+    background-color: blue;
+    color: white;
+    }
+    .principal{
+    background-color: yellow;
+    color: black;
+    }
+    .rodape{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    }
+    #finlandia{
+    width: 600px;
+    }
