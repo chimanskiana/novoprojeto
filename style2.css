@@ -1,1 +1,9 @@
-<
+.cabecalho{
+    background-color: brown;
+    border: 10px;
+    border-color: aqua;
+    border-style: groove;
+    color: beige;
+    text-decoration: underline;
+    text-align: center;
+}
